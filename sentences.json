@@ -1,0 +1,239 @@
+{
+    "sentences": [
+        {
+            "text": "Sınıf defteri masada duruyordu.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Sınıf",
+                    "tamlanan": "defteri",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Okul bahçesi çok güzeldi.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Okul",
+                    "tamlanan": "bahçesi",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Babanın arabasıyla geldik.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Babanın",
+                    "tamlanan": "arabasıyla",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Annemin yemeği çok lezzetliydi.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Annemin",
+                    "tamlanan": "yemeği",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Türkiye Cumhuriyeti gelişmeye devam ediyor.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Türkiye",
+                    "tamlanan": "Cumhuriyeti",
+                    "tur": "Takısız İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Kuş yuvası ağaçta görünüyor.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Kuş",
+                    "tamlanan": "yuvası",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Çocuğun kitabı masada kalmış.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Çocuğun",
+                    "tamlanan": "kitabı",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Evin kapısı ve bahçe duvarı boyandı.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Evin",
+                    "tamlanan": "kapısı",
+                    "tur": "Belirtili İsim Tamlaması"
+                },
+                {
+                    "tamlayan": "bahçe",
+                    "tamlanan": "duvarı",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Sınıf defteri ve öğretmen masası yenilendi.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Sınıf",
+                    "tamlanan": "defteri",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                },
+                {
+                    "tamlayan": "öğretmen",
+                    "tamlanan": "masası",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Okulun bahçesi ve sınıfın penceresi temizlendi.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Okulun",
+                    "tamlanan": "bahçesi",
+                    "tur": "Belirtili İsim Tamlaması"
+                },
+                {
+                    "tamlayan": "sınıfın",
+                    "tamlanan": "penceresi",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Annemin çantası ve babamın anahtarı masada duruyor.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Annemin",
+                    "tamlanan": "çantası",
+                    "tur": "Belirtili İsim Tamlaması"
+                },
+                {
+                    "tamlayan": "babamın",
+                    "tamlanan": "anahtarı",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Bahçenin çiçekleri ve evin kedisi oynuyordu.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Bahçenin",
+                    "tamlanan": "çiçekleri",
+                    "tur": "Belirtili İsim Tamlaması"
+                },
+                {
+                    "tamlayan": "evin",
+                    "tamlanan": "kedisi",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Okul bahçesi ve çocuk parkı düzenlendi.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Okul",
+                    "tamlanan": "bahçesi",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                },
+                {
+                    "tamlayan": "çocuk",
+                    "tamlanan": "parkı",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Kuş yuvası ve ağaç dalları rüzgarda sallanıyordu.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Kuş",
+                    "tamlanan": "yuvası",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                },
+                {
+                    "tamlayan": "ağaç",
+                    "tamlanan": "dalları",
+                    "tur": "Belirtisiz İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Öğrencinin dün verdiği ödev masada duruyordu.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Öğrencinin",
+                    "tamlanan": "ödev",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Annemin sabah yapacağı kurabiyeler çok lezzetli olurdu.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Annemin",
+                    "tamlanan": "kurabiyeler",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Okulun yeni yapılan bahçesi öğrencilerle doldu.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Okulun",
+                    "tamlanan": "bahçesi",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Ağacın henüz toplanmayan meyveleri dalda bekliyordu.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Ağacın",
+                    "tamlanan": "meyveleri",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Öğretmenin geçen hafta verdiği ödevler kontrol edildi.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Öğretmenin",
+                    "tamlanan": "ödevler",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        },
+        {
+            "text": "Dedemin uzun zamandır beklediği mektup sonunda geldi.",
+            "tamlamalar": [
+                {
+                    "tamlayan": "Dedemin",
+                    "tamlanan": "mektup",
+                    "tur": "Belirtili İsim Tamlaması"
+                }
+            ]
+        }
+    ]
+}
